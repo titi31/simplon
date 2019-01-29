@@ -1,0 +1,238 @@
+#logo{
+	width: 50px;
+	height: 50px;
+}
+a{
+	color: white;
+}
+.nav-link.active{
+	color: white;
+	display: flex;
+	margin-top: -45px;
+}
+#recru,#re{
+	background: red;
+}
+.jumbotron{
+	background: url(fond.jpg) no-repeat;
+	height: 900px;
+
+}
+h1{
+	color:white;
+	display: flex;
+	margin-left: 200px;
+	margin-top: 250px;
+}
+#play:before{
+	content: "\25B6";
+	color: red;
+	font-size: 30px;
+	
+}
+#play{
+	background: white;
+	border-radius: 50%;
+	border: none;
+	width: 50px;
+	height:50px;
+	display: flex;
+	margin-left: 600px;
+	margin-top: -30px;
+	justify-content: center;
+}
+#video{
+	color: white;
+	display: flex;
+	margin-left: 555px;
+}
+#candidat,#partenaire,#rejoindre{
+	
+	width:500px;
+	height:400px;
+	margin-top: -33px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#candidat{
+	background: blue;
+}
+#rejoindre{
+	background: #dcdcdc;
+}
+#ca,#pa,#rej{
+	width: 430px;
+	height: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+	
+
+	
+}
+#ca{
+	color: white;
+}
+.savoir{
+	color: red;
+}
+.ligne{
+	display: flex;
+	flex-direction: row;
+}
+#qui{
+	height: 500px;
+	width:500px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#textqui{
+	width: 470px;
+
+}
+
+#ki{
+	width:470px;
+	height: 320px;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content:  space-between;
+}
+#saqui{
+	display: flex;
+	margin-top:-20px;
+}
+#simplon{
+	width:1000px;
+}
+#carte{
+	width:800px;
+	height: 450px;
+}
+#pres{
+	width:700px;
+	height: 450px;
+	background:black;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#presv{
+	height: 300px;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items:center; 
+}
+#fabrique{
+	width: 200px;
+	height: 50px;
+	background: #FF1493;
+	color: white;
+	border: #FF1493;
+	border-radius: 10px;
+}
+#formation{
+	
+	height: 50px;
+	width: 400px;
+	background: #FF1493;
+	color: white;
+	border: #FF1493;
+	border-radius: 10px;
+}
+#corp,#prod,#digit{
+	
+	width: 500px;
+	height: 250px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#cor,#pro,#digi{
+	
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	
+}
+#prod{
+	background: #C0C0C0;
+}
+#digit{
+	background: #dcdcdc; 
+}
+#femme{
+	width: 750px;
+}
+strong{
+	font-size: 25px;
+}
+#news{
+
+	width: 750px;
+	display: flex;
+	
+}
+#new{
+	width: 650px;
+	height: 300px;
+	display: flex;
+	margin-top: 50px;
+	margin-left:50px; 
+	flex-direction: column;
+	justify-content: space-around;
+}
+#statif{
+	width:500px;
+	height: 300px;
+	background-color: blue;
+	color:white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#apprenants{
+	width:500px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+#pourcent{
+	width:500px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: #dcdcdc;
+
+}
+#nos{
+	
+	display: flex;
+	justify-content: center;
+}
+.img{
+	width:100px;
+	height: 80px;
+
+}
+.centreimg{
+	width: 1530px;
+	display: flex;
+	justify-content: center;
+}
+
