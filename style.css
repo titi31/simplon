@@ -226,13 +226,61 @@ strong{
 	justify-content: center;
 }
 .img{
-	width:100px;
-	height: 80px;
+	width:5%;
+	height: 100%;
 
 }
 .centreimg{
-	width: 1530px;
+	width: 100%;
 	display: flex;
 	justify-content: center;
 }
+#noir{
+	height: 450px;
+	background: black;
+	display: flex;
+	flex-direction: column;
+	align-items:   center;
+	justify-content: space-around;
 
+}
+#titreblanc{
+
+	color: white;
+	font-size:25px;
+	margin-left: 20px;
+}#logopied{
+	height: 60px;
+}
+#piedtitre{
+	display: flex;
+	align-items: center;
+
+}
+#textepied{
+	color: gray;
+}
+#rouge{
+	color: red;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#styleicone{
+	height: 100px;
+	font-size:100px;
+
+}
+#styleicone a{
+	color: gray;
+}
+.dropdown-item{
+	color: white;
+}
+.recrute{
+	display: block;
+	
+}
+ul.nav li.dropdown:hover > div.dropdown-menu {
+    display: block;    
+}
